@@ -6,7 +6,7 @@ function Footer() {
       <p>
         Created by{" "}
         <span className="hover:text-blue-700">
-          <a href="https://github.com/ismailkaraalioglu">İsmail Karaalioğlu</a>
+          <a href="https://www.linkedin.com/in/purna-chandu-anukula-7306792b6/">Purna Chandu Anukula</a>
         </span>
       </p>
     </div>
